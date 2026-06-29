@@ -1,0 +1,6 @@
+
+# 应用配置文件
+app_name: First Demo
+version: 1.0.0
+debug: true
+port: 8080
